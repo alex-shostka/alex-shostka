@@ -1,5 +1,5 @@
 # I'm Alex
-## Frontend developer
+Frontend developer
 
 ## Skills and Experience
 <p align="left"> 
