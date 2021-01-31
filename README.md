@@ -1,4 +1,4 @@
-### I'm Alex
+# I'm Alex
 ## Frontend developer
 
 ## Skills and Experience
