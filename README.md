@@ -18,3 +18,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexshostka)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/shostkaalex)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/shostkaalexandr)
+[![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&logo=google&logoColor=B4068E)](https://drive.google.com/file/d/1NBTZomf85bEHBJeS0hUpa-tN92clAbM2/view?usp=sharing)
